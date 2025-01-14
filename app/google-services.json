@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142879747796",
+    "project_id": "sangini-c5f1c",
+    "storage_bucket": "sangini-c5f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142879747796:android:1cebb01ed0e9327aa1d541",
+        "android_client_info": {
+          "package_name": "com.dan.naari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142879747796-fni4fbh23npdg2amsgr916fkne2gmt7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOy-zblyRbIEshaHPQ4fOo2w5tWoFXN3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142879747796-fni4fbh23npdg2amsgr916fkne2gmt7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
